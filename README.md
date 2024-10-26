@@ -5,8 +5,9 @@
 ## ドキュメント
 [ドキュメント](https://hackmd.io/@msy14/rover-calendar/%2Fg_lZKPjpSKSJVyY_ANF_Fw)
 ## スクリーンショット 🖼️
-![Screenshot 2024-05-06 at 18 29 54](https://github.com/fox-Nh133/rover-calendar/assets/106661910/42b9a563-0f04-4452-bf2d-8e7de7652cb0)
+![image](https://github.com/user-attachments/assets/9dde3e01-3797-462f-b7ad-2e5809a46ed3)
 ## 構成
-![rover-calendar-architecture_3](https://github.com/fox-Nh133/rover-calendar/assets/106661910/1fcb849e-c5f4-4889-8dd3-2d9a97739e59)
+![image](https://github.com/user-attachments/assets/98be3104-5024-481b-a5a0-dacfa90028a2)
+
 ## ライセンス
 [MIT License](https://github.com/fox-Nh133/rover-calendar/blob/main/LICENSE.md)
