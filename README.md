@@ -10,4 +10,4 @@
 ![image](https://github.com/user-attachments/assets/98be3104-5024-481b-a5a0-dacfa90028a2)
 
 ## ライセンス
-[MIT License](https://github.com/fox-Nh133/rover-calendar/blob/main/LICENSE.md)
+[MIT License](https://github.com/fox-Nh133/rover-calendar-template/blob/main/LICENSE.md)
